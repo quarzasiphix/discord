@@ -4,3 +4,6 @@
 [submodule "discord-engine/base"]
 	path = discord-engine/base
 	url = https://github.com/quarzasiphix/base.git
+[submodule "discord-base/base"]
+	path = discord-base/base
+	url = https://github.com/quarzasiphix/base.git
