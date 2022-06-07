@@ -1,0 +1,6 @@
+# vendors
+gui-engine/gui
+discord-base/base
+
+gui-engine/gui/.git
+discord-base/base/.git
